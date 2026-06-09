@@ -1,0 +1,26 @@
+category,channel_id,final_channel_name,channel_type,views,views_rank,views_market_share_pct,gt_5min_views,gt_5min_views_rank,gt_5min_market_share_pct
+Physics,CH001,Vedantu Physics,own,2500000,1,35.42,1800000,1,38.71
+Physics,CH002,Physics Wallah,competitor,1800000,2,25.53,1400000,2,30.11
+Physics,CH003,Unacademy Physics,competitor,1200000,3,17.02,900000,3,19.35
+Physics,CH004,BYJU'S Physics,competitor,800000,4,11.35,550000,4,11.83
+Physics,CH005,Khan Academy Physics,competitor,750000,5,10.68,0,5,0.00
+Mathematics,CH006,Vedantu Math,own,2200000,1,32.84,1600000,1,34.78
+Mathematics,CH007,Unacademy Math,competitor,1900000,2,28.36,1300000,2,28.26
+Mathematics,CH008,BYJU'S Math,competitor,1500000,3,22.39,1100000,3,23.91
+Mathematics,CH009,Khan Academy Math,competitor,1100000,4,16.42,600000,4,13.04
+Chemistry,CH010,Vedantu Chemistry,own,1800000,1,30.51,1300000,1,32.50
+Chemistry,CH011,Unacademy Chemistry,competitor,1600000,2,27.12,1200000,2,30.00
+Chemistry,CH012,BYJU'S Chemistry,competitor,1300000,3,22.03,900000,3,22.50
+Chemistry,CH013,Physics Wallah Chem,competitor,1200000,4,20.34,600000,4,15.00
+Biology,CH014,Vedantu Biology,own,2100000,1,33.87,1500000,1,35.71
+Biology,CH015,Unacademy Biology,competitor,1800000,2,29.03,1300000,2,30.95
+Biology,CH016,BYJU'S Biology,competitor,1400000,3,22.58,900000,3,21.43
+Biology,CH017,Aakash Biology,competitor,900000,4,14.52,500000,4,11.90
+JEE,CH018,Vedantu JEE,own,3200000,1,38.10,2400000,1,40.68
+JEE,CH019,Physics Wallah JEE,competitor,2500000,2,29.76,1800000,2,30.51
+JEE,CH020,Unacademy JEE,competitor,1800000,3,21.43,1200000,3,20.34
+JEE,CH021,FIITJEE Online,competitor,900000,4,10.71,500000,4,8.47
+NEET,CH022,Vedantu NEET,own,2800000,1,35.44,2100000,1,37.50
+NEET,CH023,Aakash NEET,competitor,2200000,2,27.85,1600000,2,28.57
+NEET,CH024,Allen NEET,competitor,1900000,3,24.05,1400000,3,25.00
+NEET,CH025,BYJU'S NEET,competitor,1000000,4,12.66,500000,4,8.93
